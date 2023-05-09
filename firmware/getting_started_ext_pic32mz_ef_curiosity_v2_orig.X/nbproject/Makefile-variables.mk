@@ -1,0 +1,10 @@
+#
+# Generated - do not edit!
+#
+# NOCDDL
+#
+CND_BASEDIR=`pwd`
+# pic32mz_ef_curiosity_v2 configuration
+CND_ARTIFACT_DIR_pic32mz_ef_curiosity_v2=dist/pic32mz_ef_curiosity_v2/production
+CND_ARTIFACT_NAME_pic32mz_ef_curiosity_v2=getting_started_ext_pic32mz_ef_curiosity_v2_orig.X.production.hex
+CND_ARTIFACT_PATH_pic32mz_ef_curiosity_v2=dist/pic32mz_ef_curiosity_v2/production/getting_started_ext_pic32mz_ef_curiosity_v2_orig.X.production.hex
